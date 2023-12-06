@@ -50,7 +50,7 @@ void loop()
   Serial.println();
   Serial.print("Message : ");
   content.toUpperCase();
-  if (content.substring(1) == "")// 엑세스 승인 하고자하는 UID 기록
+  if (content.substring(1) == "10 4A 0E 15")// 엑세스 승인 하고자하는 UID 기록
   { 
   // 인증이 되면 Green LED와 함께 서보모터를 작동시킨다.
     Serial.println("Authorized access");
