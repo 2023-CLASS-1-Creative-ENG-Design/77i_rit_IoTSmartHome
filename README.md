@@ -1,6 +1,10 @@
 # 🏠 IoT Smart Home with Arduino
 기초창의공학설계 001분반 77ㅣ릿(7팀)
 
+<p align=center>
+  <img src="[https://github.com/2023-CLASS-1-Creative-ENG-Design/ ](https://github.com/2023-CLASS-1-Creative-ENG-Design/77i_rit_IoTSmartHome/blob/main/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C/SmartHome/%EC%99%B8%EB%B6%80.jpg)">
+</p>
+
 ## ⚙️ 스마트홈 기능
 - 스마트 도어락
 - 스마트 온습도계
