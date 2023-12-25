@@ -2,7 +2,8 @@
 기초창의공학설계 001분반 77ㅣ릿(7팀)
 
 <p align=center>
-  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/77i_rit_IoTSmartHome/blob/main/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C/SmartHome/%EC%99%B8%EB%B6%80.jpg">
+  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/77i_rit_IoTSmartHome/blob/main/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C/SmartHome/%EC%99%B8%EB%B6%80.jpg" height="400px">
+  <img src="https://github.com/2023-CLASS-1-Creative-ENG-Design/77i_rit_IoTSmartHome/blob/main/%EC%82%AC%EC%A7%84%EC%9E%90%EB%A3%8C/Switch/%EC%8A%A4%EC%9C%84%EC%B9%98.jpg" height="400px">
 </p>
 
 ## ⚙️ 스마트홈 기능
